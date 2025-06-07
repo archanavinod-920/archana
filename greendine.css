@@ -1,0 +1,11 @@
+.bg-container {
+  background-image: url("https://images.lifestyleasia.com/wp-content/uploads/sites/8/2023/10/19151847/top-view-table-full-delicious-food-composition.jpg");
+  height: 100vh;
+  background-size: cover;
+}
+.banner-heading {
+  color: white;
+  font-family: "Roboto";
+  font-size: 45px;
+  font-weight: 300;
+}
